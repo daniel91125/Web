@@ -50,3 +50,8 @@ h4 {
 .tip-info:nth-of-type(even) {
     background: #e0e0e0;
 }
+
+body{
+    text-align: center;
+    background-color: antiquewhite;
+}
